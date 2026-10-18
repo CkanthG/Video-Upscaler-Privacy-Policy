@@ -35,11 +35,15 @@ Video processing can be resource-intensive for mobile devices. While we strive t
 * **We are not responsible for any data loss, video corruption, device strain or damage** that may occur before, during or after using the App.
 * We highly recommend that you always keep original backups of your videos. You acknowledge that you use the App at your own risk.
 
-## 6. Changes to This Privacy Policy
+## 6. Children's Privacy (Age Restriction)
+
+This App is not intended for use by children under the age of 13 (or the applicable age of digital consent in your jurisdiction). We do not knowingly collect any personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately and we will take steps to remove such information.
+
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal or regulatory reasons. We encourage you to review this policy periodically.
 
-## 7. Contact Us
+## 8. Contact Us
 
 If you have any questions, concerns, or suggestions regarding this Privacy Policy or the App, please contact us at:
 
