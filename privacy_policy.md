@@ -6,45 +6,67 @@ Thank you for choosing to use Video Upscaler ("the App"). This Privacy Policy ex
 
 By using Video Upscaler, you agree to the terms outlined in this policy.
 
-## 1. Video Processing & Storage (100% Local)
+## 1. The short version
 
-We deeply respect your privacy. **We do not upload, store, interpret or transmit your videos to any external servers or cloud services.**
-* All video upscaling and processing is performed **locally on your device** using your device's own hardware capabilities.
-* Once the upscaling process is complete, the newly generated video is saved directly to your local device storage (specifically, your Downloads folder).
-* We have absolutely no access to the videos you choose to process.
+- Video Upscaler is **free**. There are no purchases, no subscriptions and **no accounts**. You do not sign in.
+- **Your videos never leave your phone.** Upscaling runs on your device. We cannot see, copy or store your videos.
+- We do not collect your name, email or any other personal information ourselves.
+- The app shows ads provided by Google AdMob. Google's ad software may collect device data (see section 2.2), and where the law requires, the app asks for your consent first.
+- We do not sell your personal information.
 
-## 2. Personal Information & Accounts
+## 2. What data is involved
 
-Video Upscaler does not require you to create an account, log in or provide any personal information (such as your name, email address or phone number). We do not collect, store or manage any personal login data.
+### 2.1 Your videos — not collected
+Videos you choose are read and processed **locally** using Android's Media3 library. The upscaled file is saved to your device's Downloads folder. Temporary working files stay in the app's private storage on your device and are removed when saving finishes. Nothing is uploaded to us or to any server we operate.
 
-## 3. Third-Party Advertising (Google AdMob)
+### 2.2 Advertising data (Google AdMob)
+The app displays banner ads and optional rewarded video ads. The Google Mobile Ads SDK may collect and use device identifiers (such as the Android advertising ID), IP address, and diagnostic and performance information in order to serve and measure ads and to prevent fraud. This data goes to Google; **we do not receive it and do not have access to it.** Google's practices are described at https://policies.google.com/privacy and in Google's AdMob documentation.
 
-While the core functionality of the App is completely free and processes data locally, we use Google AdMob to display advertisements to support the app's development.
-* AdMob may collect and use certain anonymous device data, such as your device's Advertising ID, IP address and general usage data, to provide and measure targeted advertisements.
-* This data is collected and managed by Google in accordance with their own privacy policies.
-* For more information on how Google uses this data, please review the [Google Privacy & Terms](https://policies.google.com/technologies/ads).
+### 2.3 Consent choices (Google User Messaging Platform)
+In regions where consent is required (for example the EEA, UK and Switzerland), the app shows a consent form from Google before ads are requested. Your choice is stored on your device by Google's consent software. If a choice is available to you, an **Ad privacy choices** button appears in the app, so you can change your mind at any time.
 
-## 4. App Permissions
+### 2.4 Notifications
+The app shows a notification while it upscales a video (progress, and a Cancel button) and when it finishes. These are generated on your device. They are not sent to us, and the app does not use push notifications from a server. You can turn them off in Android settings; upscaling still works.
 
-To function correctly, Video Upscaler requires the following device permissions:
-* **Storage / Media Access:** Required solely to allow you to select a video from your gallery or file system for upscaling and to save the processed, upscaled video back to your device's Downloads folder.
+### 2.5 What we do not collect
+We do not collect your precise location, contacts, the content of your photos or videos, microphone or camera data, or payment information. We do not run our own servers for the app, and we do not use analytics or crash-reporting SDKs [CONFIRM: remove this sentence if you add any].
 
-## 5. Limitation of Liability & Data Loss
+## 3. Why data is used, and legal bases (EU/UK users)
+| Purpose | Legal basis |
+|---|---|
+| Showing ads that keep the app free | Your consent where required (consent form in the EEA/UK/Switzerland); otherwise Google's and our legitimate interest in funding a free app |
+| Running the upscaler on your device | Performance of the service you request (no personal data is sent to us) |
+| Complying with law | Legal obligation |
 
-Video processing can be resource-intensive for mobile devices. While we strive to provide a stable and reliable experience:
-* **We are not responsible for any data loss, video corruption, device strain or damage** that may occur before, during or after using the App.
-* We highly recommend that you always keep original backups of your videos. You acknowledge that you use the App at your own risk.
+## 4. Who data is shared with
+- **Google (AdMob and Google Play):** ad-related data is handled by Google as a service provider and for its own advertising purposes, as an independent controller, as described in Google's policies.
+- We do **not** sell personal information and do not share it with data brokers. We hold no personal data about you to share.
 
-## 6. Children's Privacy (Age Restriction)
+## 5. Ads and your choices
+- Use the **Ad privacy choices** button in the app, where shown, to review your consent.
+- On Android you can reset your advertising ID or opt out of ad personalization in **Settings → Google → Ads**.
+- **California and similar US state laws:** we do not sell personal information for money. Ad delivery by Google may count as "sharing" for cross-context advertising under some state laws; the device settings above limit it.
 
-This App is not intended for use by children under the age of 13 (or the applicable age of digital consent in your jurisdiction). We do not knowingly collect any personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately and we will take steps to remove such information.
+## 6. Retention
+We hold no personal data about you. Files you create stay on your device in Downloads until you delete them. Ad-related data is kept by Google under Google's own policies. Uninstalling the app removes its private data from your device.
 
-## 7. Changes to This Privacy Policy
+## 7. Your rights
+Because we do not hold personal data about you, there is usually nothing for us to access, correct or delete. For data held by Google (for example the advertising ID), use Android's ad settings above. You can still contact us at [gaddojusupport@gmail.com] with any privacy request and we aim to respond within 30 days. You may also complain to your local data-protection authority.
 
-We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal or regulatory reasons. We encourage you to review this policy periodically.
+## 8. Age limit
+The app is for people aged **16 or older**, or the minimum age to consent to data processing where you live if that is higher. It is not directed at children and we do not knowingly collect data from children.
+
+## 9. Security
+Communication between the app and Google ad services is encrypted (TLS). Your videos are processed on your device and are never transmitted by the app. No system is perfectly secure and we cannot guarantee absolute security.
+
+## 10. International transfers
+Google processes ad data in many countries under its own transfer safeguards (see Google's privacy documentation).
+
+## 11. Changes
+We will update the effective date above when this policy changes and show a notice in the app for material changes.
 
 ## 8. Contact Us
 
-If you have any questions, concerns, or suggestions regarding this Privacy Policy or the App, please contact us at:
+If you have any questions, concerns or suggestions regarding this Privacy Policy or the App, please contact us at:
 
 **Email:** gaddojusupport@gmail.com
